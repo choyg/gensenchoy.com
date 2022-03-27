@@ -1,0 +1,10 @@
+name = "sweethome"
+type = "webpack"
+route = 'gensenchoy.com/*'
+zone_id = '9b3a813938f897e7512ca56d2ee8c0f5'
+usage_model = ''
+compatibility_flags = []
+workers_dev = false
+site = {bucket = "./public",entry-point = "workers-site"}
+account_id = '2b9a1e8601318f9eb0a57a550f71b5df'
+compatibility_date = "2022-03-27"
