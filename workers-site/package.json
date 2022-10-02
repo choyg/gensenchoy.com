@@ -8,5 +8,10 @@
   "license": "MIT",
   "dependencies": {
     "@cloudflare/kv-asset-handler": "~0.1.2"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^3.4.0",
+    "miniflare": "^2.4.0"
   }
 }
