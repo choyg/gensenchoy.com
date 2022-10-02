@@ -12,6 +12,6 @@
   "type": "module",
   "devDependencies": {
     "@cloudflare/workers-types": "^3.4.0",
-    "miniflare": "^2.4.0"
+    "miniflare": "^2.9.0"
   }
 }
